@@ -13,7 +13,7 @@ Quantum Cryptography**
 
 ## About the Journal
 
-*Memorias para Ingeniería* is an academic journal from the Universidad de Montevideo that publishes research across various fields of engineering, promoting the dissemination of scientific and technical knowledge.
+The articles are published in *Memoria Investigaciones en Ingeniería* (ISSN: 2301-1106), a reputable academic journal established in 2000 by the Universidad de Montevideo. Known for its rigorous peer-reviewed content, the journal publishes cutting-edge research in engineering and related fields. *Memoria Investigaciones en Ingeniería* is indexed in prestigious databases, including Clarivate Web of Science (ESCI), Latindex, and DOAJ, ensuring high visibility and accessibility for impactful research contributions.
 
 ## License
 
